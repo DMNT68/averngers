@@ -1,2 +1,4 @@
 # Misiones
-* Invertigar al Dr. Doom
+
+- Invertigar al Dr. Doom
+- Capturar a redskull
